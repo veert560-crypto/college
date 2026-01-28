@@ -86,7 +86,7 @@ export const projectsData = [
     description:
       "A web-based Tic-Tac-Toe game developed using core web technologies and deployed online.",
     tags: ["HTML", "CSS", "JavaScript", "Netlify"],
-    imageUrl: bykarImg,
+    imageUrl: tictactoeImg,
   },
 ] as const;
 
